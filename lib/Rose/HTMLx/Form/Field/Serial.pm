@@ -4,7 +4,7 @@ use warnings;
 use strict;
 use base qw( Rose::HTML::Form::Field::Hidden );
 
-our $VERSION = '0.001';
+our $VERSION = '0.002';
 
 =head1 NAME
 
